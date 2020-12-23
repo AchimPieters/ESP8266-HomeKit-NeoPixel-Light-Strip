@@ -1,6 +1,11 @@
 # ESP8266 – HomeKit NeoPixel Light Strip
 ESP8266 – HomeKit NeoPixel Light Strip
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-NeoPixel-Light-Strip)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-NeoPixel-Light-Strip/total)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
+
 For more information visit:   https://www.studiopieters.nl/esp8266-homekit-…ixel-light-strip/ ‎
 
 
